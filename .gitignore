@@ -191,6 +191,5 @@ git_stats/*
 
 *.ncrunchproject
 StyleCop.Cache
-Database
 bin
 obj
